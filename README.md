@@ -18,6 +18,6 @@ Este repositório contém uma atividade prática realizada no bootcamp de Data A
    git clone https://github.com/kerllare/Modelos-de-Regressao.git
 2. Abra o notebook Atividade_de_Modelos_de_Classificação_e_Regressão_Logística_Kerlla_Santiago.ipynb no Jupyter Notebook ou Google Colab.
 3. Execute as células para ver a análise e os resultados.
-4. 
+
 
 Feito com 💜 por Kerlla Santiago 
